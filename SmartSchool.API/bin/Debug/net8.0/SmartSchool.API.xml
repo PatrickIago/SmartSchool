@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SmartSchool.API</name>
+    </assembly>
+    <members>
+        <member name="M:SmartSchool.API.Controllers.AlunoController.#ctor(SmartSchool.API.Interfaces.IRepository,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="repo"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:SmartSchool.API.Controllers.AlunoController.Get(SmartSchool.API.Helpers.PageParams)">
+            <summary>
+            Método responsável para retornar todos os meus alunos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SmartSchool.API.Controllers.AlunoController.Get(System.Int32)">
+            <summary>
+            Método responsável por retornar um aluno especifico
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SmartSchool.API.Controllers.AlunoController.GetByDisciplina(System.Int32,SmartSchool.API.Helpers.PageParams)">
+            <summary>
+            Método responsável por retornar alunos por disciplina
+            </summary>
+            <param name="pageParams"></param>
+            <param name="disciplinaId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SmartSchool.API.Controllers.AlunoController.Post(SmartSchool.API.DTOs.AlunoRegistrarDto)">
+            <summary>
+            Método responsável por criar um novo aluno
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SmartSchool.API.Controllers.AlunoController.Put(System.Int32,SmartSchool.API.DTOs.AlunoRegistrarDto)">
+            <summary>
+            Metodo responsavel por atualizar um aluno especifico
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SmartSchool.API.Controllers.AlunoController.Delete(System.Int32)">
+            <summary>
+            Método responsável por deletar um aluno especifico
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="P:SmartSchool.API.Helpers.PageList`1.CurrentPage">
+            <summary>
+            Pagina atual
+            </summary>
+        </member>
+        <member name="P:SmartSchool.API.Helpers.PageList`1.TotalPages">
+            <summary>
+            Total de paginas
+            </summary>
+        </member>
+        <member name="P:SmartSchool.API.Helpers.PageList`1.PageSize">
+            <summary>
+            Quantos itens por pagina
+            </summary>
+        </member>
+        <member name="P:SmartSchool.API.Helpers.PageParams.Matricula">
+            <summary>
+            Filtrar alunos
+            </summary>
+        </member>
+        <member name="T:SmartSchool.API.Migrations.Inicial">
+            <inheritdoc />
+        </member>
+        <member name="M:SmartSchool.API.Migrations.Inicial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SmartSchool.API.Migrations.Inicial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SmartSchool.API.Migrations.Inicial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

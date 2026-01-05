@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSch.DF07D284.Up2Date||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\SmartSch.DF07D284.Up2Date||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\apphost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\apphost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\ApiEndpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\ApiEndpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PaginationHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\PaginationHeader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PageList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\PageList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PageParams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers\\PageParams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\DTOs\\AlunoRegistrarDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\AlunoRegistrarDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\DTOs\\AlunoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTOs\\AlunoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Mapper\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mapper\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Mapper\\DateTimeExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mapper\\DateTimeExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\AlunoDisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AlunoDisciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Data\\SmartSchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\SmartSchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Controllers\\ProfessorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ProfessorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Migrations\\20250607152701_Inicial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250607152701_Inicial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\AlunoCurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AlunoCurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartSchool.API.AssemblyInfoInputs.cache",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfoInputs.cache",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfoInputs.cache",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfoInputs.cache",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfoInputs.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2025-12-24T01:14:02.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartSchool.API.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\SmartSchool.API.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:14:01.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartSch.DF07D284.Up2Date",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSch.DF07D284.Up2Date",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\SmartSch.DF07D284.Up2Date",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\SmartSch.DF07D284.Up2Date",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\SmartSch.DF07D284.Up2Date",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-24T01:14:00.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apphost.exe",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\apphost.exe",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\apphost.exe",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\apphost.exe",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\apphost.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2025-12-24T01:13:58.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiEndpoints.json",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T01:13:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T01:09:25.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T01:09:23.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginationHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PaginationHeader.cs",
+              "RelativeDocumentMoniker": "Helpers\\PaginationHeader.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PaginationHeader.cs",
+              "RelativeToolTip": "Helpers\\PaginationHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:05:42.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\Extensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\Extensions.cs",
+              "RelativeToolTip": "Helpers\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:03:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageList.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PageList.cs",
+              "RelativeDocumentMoniker": "Helpers\\PageList.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PageList.cs",
+              "RelativeToolTip": "Helpers\\PageList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:00:09.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageParams.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PageParams.cs",
+              "RelativeDocumentMoniker": "Helpers\\PageParams.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Helpers\\PageParams.cs",
+              "RelativeToolTip": "Helpers\\PageParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:59:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlunoRegistrarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\DTOs\\AlunoRegistrarDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AlunoRegistrarDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\DTOs\\AlunoRegistrarDto.cs",
+              "RelativeToolTip": "DTOs\\AlunoRegistrarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:55:40.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\DTOs\\AlunoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AlunoDto.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\DTOs\\AlunoDto.cs",
+              "RelativeToolTip": "DTOs\\AlunoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:55:14.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:51:38.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Mapper\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "Mapper\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Mapper\\DateTimeExtensions.cs",
+              "RelativeToolTip": "Mapper\\DateTimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:48:55.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:47:51.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "Models\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Disciplina.cs",
+              "RelativeToolTip": "Models\\Disciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:46:29.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Professor.cs",
+              "RelativeToolTip": "Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:45:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SmartSchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Data\\SmartSchoolContext.cs",
+              "RelativeDocumentMoniker": "Data\\SmartSchoolContext.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Data\\SmartSchoolContext.cs",
+              "RelativeToolTip": "Data\\SmartSchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:45:32.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:44:25.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:43:06.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250607152701_Inicial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Migrations\\20250607152701_Inicial.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250607152701_Inicial.Designer.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Migrations\\20250607152701_Inicial.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250607152701_Inicial.Designer.cs",
+              "ViewState": "AgIAAHYCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:43:44.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AlunoCurso.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\AlunoCurso.cs",
+              "RelativeDocumentMoniker": "Models\\AlunoCurso.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\AlunoCurso.cs",
+              "RelativeToolTip": "Models\\AlunoCurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:40:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\Curso.cs",
+              "RelativeToolTip": "Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:40:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AlunoDisciplina.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\AlunoDisciplina.cs",
+              "RelativeDocumentMoniker": "Models\\AlunoDisciplina.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Documents\\SmartSchool.API\\Models\\AlunoDisciplina.cs",
+              "RelativeToolTip": "Models\\AlunoDisciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T00:40:20.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

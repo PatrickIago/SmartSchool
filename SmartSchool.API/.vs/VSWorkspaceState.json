@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net8.0",
+    "\\Controllers",
+    "\\Data",
+    "\\Interfaces",
+    "\\Mapper",
+    "\\Migrations",
+    "\\Models"
+  ],
+  "SelectedNode": "\\Controllers\\AlunoController.cs",
+  "PreviewInSolutionExplorer": false
+}

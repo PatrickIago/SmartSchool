@@ -1,0 +1,14 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "SmartSchool API",
+    "description": "Confira a minha API de gerenciamento escolar",
+    "contact": {
+      "name": "Patrick",
+      "email": "mendespatrick720@gmail.com"
+    },
+    "version": "1.0"
+  },
+  "paths": { },
+  "components": { }
+}
