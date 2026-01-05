@@ -1,0 +1,55 @@
+<app-titulo [titulo]="titulo"></app-titulo>
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="card shadow-sm border-0">
+      <div class="card-header bg-white">
+        <h5 class="mb-0">Editar Informações</h5>
+      </div>
+      <div class="card-body">
+        <form [formGroup]="perfilForm" (ngSubmit)="salvarPerfil()">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <label>Nome</label>
+                <input type="text" class="form-control" formControlName="nome">
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <label>Sobrenome</label>
+                <input type="text" class="form-control" formControlName="sobrenome">
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group mt-3">
+            <label>E-mail</label>
+            <input type="email" class="form-control" formControlName="email">
+          </div>
+
+          <hr class="my-4">
+
+          <div class="d-flex justify-content-end">
+            <button type="submit" class="btn btn-primary px-4" [disabled]="!perfilForm.valid">
+              Salvar Alterações
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="card shadow-sm border-0 text-center p-4 bg-light">
+      <div class="mb-3">
+        <i class="fa fa-user-circle fa-5x text-primary"></i>
+      </div>
+      <h5 class="mb-1 text-dark">
+        {{ perfilForm.get('nome')?.value }} {{ perfilForm.get('sobrenome')?.value }}
+      </h5>
+      <p class="text-muted small">{{ usuarioFake.funcao }}</p>
+      <div class="badge badge-primary px-3 py-2">Ativo</div>
+    </div>
+  </div>
+</div>

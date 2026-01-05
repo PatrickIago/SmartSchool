@@ -1,0 +1,7 @@
+/* Importações globais removidas daqui para usar o angular.json */
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "ngx-toastr/toastr.css";
+
+#toast-container > div {
+    opacity: 1; 
+}

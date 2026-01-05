@@ -1,0 +1,52 @@
+<app-titulo [titulo]="titulo"></app-titulo>
+
+<div class="row mt-4">
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card border-0 shadow-sm text-center card-hover">
+      <div class="card-body">
+        <div class="icon-circle bg-light-primary text-primary mx-auto mb-3">
+          <i class="fa fa-user-graduate fa-2x"></i>
+        </div>
+        <h6 class="text-secondary font-weight-normal">Total de Alunos</h6>
+        <h2 class="display-4 font-weight-bold">{{ alunos.length }}</h2>
+        <a routerLink="/alunos" class="btn btn-outline-primary btn-sm mt-2">Ver Lista</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card border-0 shadow-sm text-center card-hover">
+      <div class="card-body">
+        <div class="icon-circle bg-light-success text-success mx-auto mb-3">
+          <i class="fa fa-chalkboard-teacher fa-2x"></i>
+        </div>
+        <h6 class="text-secondary font-weight-normal">Professores Ativos</h6>
+        <h2 class="display-4 font-weight-bold">{{ professores.length }}</h2>
+        <a routerLink="/professores" class="btn btn-outline-success btn-sm mt-2">Gerenciar</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6 col-md-4 mb-4">
+    <div class="card border-0 shadow-sm text-center card-hover">
+      <div class="card-body">
+        <div class="icon-circle bg-light-info text-info mx-auto mb-3">
+          <i class="fa fa-user-cog fa-2x"></i>
+        </div>
+        <h6 class="text-secondary font-weight-normal">Meu Perfil</h6>
+        <p class="text-muted small">Acesse suas configurações de conta</p>
+        <a routerLink="/perfil" class="btn btn-info text-white btn-sm mt-3">Editar Perfil</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12">
+    <div class="card border-0 shadow-sm p-4">
+      <h5 class="text-dark"><i class="fa fa-info-circle mr-2"></i>Status do Sistema</h5>
+      <hr>
+      <p class="mb-0">Bem-vindo ao <strong>Smart School</strong>. Você está conectado como administrador.</p>
+    </div>
+  </div>
+</div>
