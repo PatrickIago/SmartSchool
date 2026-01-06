@@ -1,4 +1,4 @@
-# 🎓 SmartSchool
+# 🎓 SmartSchool .NET + Angular
 
 O **SmartSchool** é um sistema de gestão escolar robusto, projetado para administrar de forma eficiente o ecossistema educacional. A aplicação permite que administradores e professores controlem listagens de alunos, visualizem detalhes de disciplinas e acompanhem métricas importantes por meio de um dashboard intuitivo.
 
